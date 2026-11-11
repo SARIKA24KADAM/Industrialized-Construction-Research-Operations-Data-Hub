@@ -1,0 +1,11 @@
+project_id,po_id,material,order_date,expected_date,status,lead_time_days,supplier
+P-101,PO-001,Glulam beams,2026-10-09,2026-10-28,On track,8,North Timber Co.
+P-101,PO-002,Facade panels,2026-10-10,2026-10-29,At risk,27,ModuBuild Supply
+P-204,PO-003,Glulam beams,2026-10-11,2026-10-30,On track,17,North Timber Co.
+P-204,PO-004,Facade panels,2026-10-12,2026-10-31,At risk,8,ModuBuild Supply
+P-318,PO-005,Glulam beams,2026-10-13,2026-11-01,On track,22,North Timber Co.
+P-318,PO-006,Facade panels,2026-10-14,2026-11-02,At risk,14,ModuBuild Supply
+P-422,PO-007,Glulam beams,2026-10-15,2026-11-03,On track,24,North Timber Co.
+P-422,PO-008,Facade panels,2026-10-16,2026-11-04,At risk,23,ModuBuild Supply
+P-507,PO-009,Glulam beams,2026-10-08,2026-11-05,On track,23,North Timber Co.
+P-507,PO-010,Facade panels,2026-10-09,2026-11-06,At risk,30,ModuBuild Supply

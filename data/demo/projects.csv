@@ -1,0 +1,6 @@
+project_id,project_name,city,sector,start_date,finish_date,budget,planned_progress,actual_progress,schedule_variance_days
+P-101,Harbourview Residences,Toronto,Residential,2026-01-05,2026-12-18,18500000,0.58,0.55,-4
+P-204,West Junction Transit Hub,Toronto,Transit,2025-09-15,2027-03-30,42000000,0.67,0.62,11
+P-318,Northfield Logistics Centre,Brampton,Industrial,2026-02-02,2026-11-27,12800000,0.73,0.69,6
+P-422,Cedar Creek Watermain,Vaughan,Civil,2025-11-10,2026-08-21,9600000,0.81,0.77,-2
+P-507,King Street Clinic,Hamilton,Healthcare,2026-03-02,2027-01-15,24300000,0.39,0.36,8

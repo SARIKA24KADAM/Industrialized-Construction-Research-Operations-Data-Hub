@@ -1,0 +1,9 @@
+document_id,project_id,document_type,document_date,text,owner
+DOC-001,P-101,Progress report,2026-10-27,Panel installation reached level 8. Crane availability constrained two shifts; recovery plan reviewed with site team.,Site team
+DOC-002,P-204,Meeting minutes,2026-10-24,Long-lead facade submittal remains open. Design coordination workshop scheduled; procurement to confirm revised delivery date.,Project controls
+DOC-003,P-318,Quality inspection,2026-10-23,Three wall panels held for dimensional review. Corrective action logged; re-inspection required before dispatch.,Quality team
+DOC-004,P-422,Change request,2026-10-21,Utility conflict may affect the north work zone. Cost and schedule impacts are under assessment.,Engineering
+DOC-005,P-507,Progress report,2026-10-20,Mock-up review complete. Minor sealant observations assigned; no release decision until close-out evidence is filed.,Site team
+DOC-006,P-101,Meeting minutes,2026-10-17,Weekly coordination: confirm delivery sequence and ensure the latest approved shop drawing is used on the floor.,Project controls
+DOC-007,P-204,Quality inspection,2026-10-15,Connection torque sampling completed. One record needs a traceable component identifier before acceptance.,Quality team
+DOC-008,P-318,Change request,2026-10-13,Alternate loading sequence proposed to reduce double handling. Safety and logistics review pending.,Engineering
